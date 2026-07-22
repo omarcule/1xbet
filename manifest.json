@@ -1,7 +1,7 @@
 {
-  "name": "1xbet",
-  "short_name": "1xbet",
-  "description": "1xbet",
+  "name": "1xBet",
+  "short_name": "1xBet",
+  "description": "1xBet",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
